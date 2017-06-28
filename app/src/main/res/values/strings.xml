@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FindMeATester</string>
+
+    <string name="input_1">Input 1</string>
+    <string name="input_2">Input 2</string>
+    <string name="request">Request</string>
+
+</resources>
